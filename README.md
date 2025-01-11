@@ -1,2 +1,2 @@
 # Sem_6
-This repository consists the tasks that done all over the 6th Sem
+This repository consists the tasks are that done all over the 6th Sem
