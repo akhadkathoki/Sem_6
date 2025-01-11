@@ -1,0 +1,44 @@
+SPA => Single Page Application
+    - page that reloads the paticular component instante of full page in the website.
+    - example: google map, chat, youtube, etc.
+    - SPA is a type of web application that loads a single HTML page and dynamically updates that page
+      as the user navigates between different views or routes. This is in contrast to a traditional web
+      application, which loads a new HTML page for each new view or route.
+
+DOM => Document Object Model
+    - The Document Object Model (DOM) is a programming interface for HTML and XML documents. It
+      allows you to interact with the DOM by manipulating the structure of the document.
+    - The DOM is a tree-like structure that represents the document as a collection of nodes.
+    - Each node in the DOM has a set of properties and methods that can be used to access
+      and modify the node's content.
+
+Virtual DOM
+    - The virtual DOM is a tree-like structure that represents the document as a collection
+      of nodes, similar to the DOM. However, the virtual DOM is a lightweight in-memory representation
+      of the DOM, and it is used by the React library to optimize rendering and improve performance.
+    - The virtual DOM is used to keep track of the changes made to the DOM, and it is used
+      to determine what changes need to be made to the DOM in order to update the user interface.
+
+What is an application?
+An application is a software program that performs a specific task or set of tasks. It can be a
+web application, a mobile application, or a desktop application.
+
+What is web app?
+A web application is a software program that runs on a web server and is accessed through a web
+browser. It can be a simple website or a complex application with multiple features and functionality.
+
+What are the condition where the user chooses web app, mobile app or desktop app?
+The user chooses a web app, mobile app, or desktop app based on their needs and preferences.
+    - Web app: when the user wants to access the application from anywhere, at any time, and
+      from any device with an internet connection.
+    - Mobile app: when the user wants to access the application on their mobile device, and
+      they want to use the application's features and functionality on the go.
+    - Desktop app: when the user wants to access the application on their desktop computer, and
+      they want to use the application's features and functionality on a larger screen.
+
+WHat is typescirpt?
+TypeScript is a superset of JavaScript that adds optional static typing and other features to improve the development
+experience. It is designed to help developers catch errors early and improve code maintainability.
+Example: let name: string = "John"; // declare a variable name of type string and assign it the
+         value "John".
+
